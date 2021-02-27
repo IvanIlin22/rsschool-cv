@@ -1,0 +1,23 @@
+.content {
+    background-color: #dedddc;
+    padding: 20px;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+.content h2 {
+    display: block;
+    text-decoration: underline;
+}
+.code {
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 1em;
+    max-width: 512px;
+}
+.contacts {
+    height: 150px;
+}
+img.photo {
+    float: right;
+    margin-right: 50px;
+    }
